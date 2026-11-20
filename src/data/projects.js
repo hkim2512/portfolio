@@ -69,7 +69,7 @@ export const PROJECTS = [
     description:
       "Hệ thống quản lý nhà thuốc bán lẻ bao gồm quản lý kho dược phẩm, cảnh báo hạn sử dụng thuốc, POS xuất hóa đơn bán hàng nhanh, và báo cáo doanh thu quản trị.",
     technologies: ["React", "Node.js", "Express", "MongoDB", "TailwindCSS", "JWT Auth"],
-    demo: "https://pharmacy-management-ffrafmr2w-itsmire.vercel.app",
+    demo: "https://pharmacity-seven.vercel.app/pos",
     figma: "",
     thumbnail: "",
     screenshots: [],
