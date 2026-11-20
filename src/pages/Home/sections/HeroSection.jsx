@@ -138,7 +138,7 @@ export default function HeroSection() {
                 {/* Main Avatar Image Wrapper */}
                 <div className="relative rounded-2xl overflow-hidden aspect-[4/5] bg-zinc-900 border border-white/10 shadow-inner">
                   <img
-                    src="/avatar.svg"
+                    src="/avatar.jpg"
                     alt={SITE_META.name}
                     className="w-full h-full object-cover object-center transform group-hover:scale-105 transition-transform duration-700"
                   />
